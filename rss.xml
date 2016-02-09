@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Elgranmezcal.com]]></title>
+        <description><![CDATA[Elgranmezcal.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 08:56:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shots]]></title>
+            <description><![CDATA[<article><h1>Shots</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ee723b9dc85bfcfed7a955c83af2409f51b53be.png"></article>]]></description>
+            <link>undefinedshots/index.html</link>
+            <guid isPermaLink="false">6108479e-beb9-419c-85ff-ce3220ebbde3</guid>
+            <pubDate>Tue, 09 Feb 2016 08:54:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
